@@ -1,0 +1,6 @@
+{
+  "name": "SBS Pro - Mobile Recharge & Financial Services Portal",
+  "description": "Multi-operator mobile recharge, bKash & Rocket financial services, utility bill pay, and comprehensive transaction reports portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
